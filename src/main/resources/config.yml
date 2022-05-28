@@ -1,0 +1,11 @@
+command:
+  usage: "&cUsage: /<command>"
+  player_no_found: "&cThe player <player> no found!"
+  only_players: "&cCommand only players"
+  no_permission: "&cNo permission"
+  tpa_target: "&cThe player <player> has target already in system TPA"
+  tpa_send: "&aYou just sent the request for the TPA to the player <player>"
+  tpa_request: "&aThe player <player> has request to teleport in your location, execute the command /tpaccept <player>"
+  tpa_expired: "&cThe teleportation time has expired"
+  tpa_no_exist: "&cThe player <player> never has interact in tpa"
+  tpa_successfully: "&aTPA Accepted, you will be teleported in 3 seconds!"

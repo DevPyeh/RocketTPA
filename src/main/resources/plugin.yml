@@ -1,0 +1,9 @@
+name: RocketTp
+version: 0.0.1
+author: Pyeh
+main: me.pyeh.rocket.RocketTP
+commands:
+  tpa:
+    aliases: ["Rtpa"]
+  tpaccept:
+    aliases: ["Rtpaccept"]
